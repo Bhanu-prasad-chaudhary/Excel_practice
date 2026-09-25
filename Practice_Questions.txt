@@ -1,0 +1,24 @@
+Practice							
+1. XLOOKUP (5 Practice)							Categorize sales as High (>3000) or Low
+							   		If Region is East, mark as Priority, else Normal
+1. Find the Sales_Rep for customer Sara Ahmed				If Product is Laptop, return "Premium", else "Standard"
+2. Get the Sales_Amount for Order_ID 1005				If Sales_Amount < 1000 → "Low Value", else "High Value"
+3. Find the Region for David Lee					If Sales_Rep is John → "Top Performer", else "Other"
+4. Return the Product for Order_ID 1010					Total Sales in East region
+5. Find the Order_Date for Omar Hassan					Total Laptop sales only
+									Total Sales by Emma
+									Total sales where Region = West AND Product = Laptop
+2. FILTER (5 Practice)							Total sales where Sales_Amount > 1000 (advanced — use helper or logic)
+							
+1. Show all records where Region = East							
+2. Filter all Laptop sales								Pivot Table (5 Practice)
+3. Show data where Sales_Amount > 3000							
+4. Get all records for Emma (Sales Rep)							👉 Ask your audience to create these:
+5. Filter West region + Mobile sales							
+							                                1. Total Sales by Region
+Bonus - Practice							                2. Total Sales by Product
+Remove duplicate values from Customer_Name					        3. Sales by Sales_Rep
+Remove duplicates from Product column							4. Region vs Product (which product sells best in each region)
+Remove duplicates based on Customer + Product combination				5. Count of orders per Customer_Name
+Count how many unique customers exist (after removing duplicates)							
+Check if any duplicate Order_IDs exist							
